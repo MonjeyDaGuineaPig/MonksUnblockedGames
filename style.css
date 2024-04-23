@@ -1,1 +1,9 @@
-
+body {
+backgrouund: #B6E3E7;
+  margin: 0 auto;
+  font-family: arial;
+}
+h1 {
+  margin: auto;
+  margin-top: 30px;
+}
