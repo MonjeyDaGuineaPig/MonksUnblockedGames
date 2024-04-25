@@ -10,8 +10,8 @@ h1 {
 }
 
 .button {
-  background-color: #04AA6D; /* Green */
-  border: none;
+  background-color: #242dd6;
+  border-color: #000000;
   color: white;
   padding: 15px 32px;
   text-align: center;
