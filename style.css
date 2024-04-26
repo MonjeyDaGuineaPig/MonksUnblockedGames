@@ -1,15 +1,19 @@
 body {
-background-color: #B6E3E7;
+  background-color: #B6E3E7;
   margin: 0 auto;
   font-family: arial;
 }
 h1 {
+  font-family: arial;
   margin: auto;
   margin-top: 30px;
   text-align: center;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .button {
+  font-weight: bold;
   background-color: #242dd6;
   border-color: #000000;
   color: white;
@@ -17,6 +21,6 @@ h1 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   border-radius: 12px;
 }
