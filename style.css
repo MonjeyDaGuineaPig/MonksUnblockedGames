@@ -16,7 +16,10 @@ h1 {
   background-color: #000000;
   border-color: #000000;
   color: white;
-
+  padding: 30px 45px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block;
   font-size: 15px;
   border-radius: 15px;
 }
