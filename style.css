@@ -13,14 +13,13 @@ h1 {
 }
 
 .button {
-  font-weight: bold;
   background-color: #242dd6;
   border-color: #000000;
   color: white;
-  padding: 15px 32px;
+  padding: 30px 45px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 15px;
-                                    border-radius: 12px;
+  border-radius: 15px;
 }
