@@ -13,10 +13,9 @@ h1 {
 }
 
 .button {
-  background-color: #000000;
+  background-color: #0077b6;
   border-color: #000000;
   color: white;
-  padding: 30px 45px; 
   text-align: center; 
   text-decoration: none; 
   display: inline-block;
