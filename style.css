@@ -19,7 +19,7 @@ h1 {
   text-align: center; 
   text-decoration: none; 
   display: inline-block;
-  padding: 30px 45px; 
+  padding: 25px 25px; 
   font-size: 15px;
-  border-radius: 15px;
+  border-radius: 10px;
 }
