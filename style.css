@@ -14,7 +14,7 @@ h1 {
 
 .button {
   font-weight: bold;
-  font-size: 25px;
+  font-size: 15px;
   color: white;
   text-align: center;
   background-color: #0077b6;
@@ -22,5 +22,5 @@ h1 {
   text-decoration: none; 
   display: inline-block;
   padding: 25px 25px; 
-  border-radius: 50px;
+  border-radius: 25px;
 }
