@@ -14,14 +14,15 @@ h1 {
 
 .button {
   font-family: arial;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  
   background-color: #0077b6;
   border-color: #000000;
-  color: white;
-  text-align: center; 
   text-decoration: none; 
   display: inline-block;
   padding: 25px 25px; 
-  font-size: 15px;
-  border-radius: 10px;
-  font-weight: bold;
+  border-radius: 50px;
 }
