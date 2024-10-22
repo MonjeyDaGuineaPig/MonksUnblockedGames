@@ -15,10 +15,9 @@ h1 {
 .button {
   font-family: arial;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 25px;
   color: white;
   text-align: center;
-  
   background-color: #0077b6;
   border-color: #000000;
   text-decoration: none; 
