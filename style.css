@@ -1,5 +1,5 @@
 body {
-  background-color: #B6E3E7;
+  background-color: #1f1f1f;
   font-family: arial;
 }
 
@@ -17,7 +17,7 @@ h1 {
   font-size: 15px;
   color: white;
   text-align: center;
-  background-color: #0077b6;
+  background-color: #2b2b2b;
   border-color: #000000;
   text-decoration: none; 
   display: inline-block;
