@@ -24,3 +24,8 @@ h1 {
   padding: 30px 30px; 
   border-radius: 10px;
 }
+
+td {
+  width: 100px;
+  height: 100px;
+}
