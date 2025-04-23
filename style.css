@@ -29,17 +29,17 @@ td {
 
 .button {
       font-weight: bold;
-      font-size: 25px;
+      font-size: 20px;
       color: white;
       text-align: center;
       background-color: #2b2b2b;
       border-color: #000000;
       text-decoration: none; 
       display: inline-block;
-      padding: 15px; 
+      padding: 20px; 
       border-radius: 10px;
       transition: background-color 0.3s;
-      width: 275px;
+      width: 200px;
       height: 125px;
     }
 
