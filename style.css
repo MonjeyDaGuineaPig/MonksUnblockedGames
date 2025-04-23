@@ -26,8 +26,8 @@ h1 {
 }
 
 td {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 1250px;
   padding: 5px;
 }
 body {
@@ -55,12 +55,12 @@ body {
       display: inline-block;
       padding: 30px; 
       border-radius: 10px;
-      transition: background-color 0.3s; /* Smooth transition */
+      transition: background-color 0.3s;
     }
     .button:hover {
-      background-color: #1a1a1a; /* Darker shade on hover */
+      background-color: #1a1a1a;
     }
 
     table {
-      margin: 0 auto; /* Center the table */
+      margin: 0 auto; 
      }
