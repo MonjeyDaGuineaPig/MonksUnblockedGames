@@ -39,8 +39,8 @@ td {
       padding: 30px; 
       border-radius: 10px;
       transition: background-color 0.3s;
-      width: 150px;
-      height: 100px;
+      width: 250px;
+      height: 125px;
     }
 
 .button:hover {
