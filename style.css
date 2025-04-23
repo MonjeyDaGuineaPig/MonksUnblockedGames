@@ -28,4 +28,39 @@ h1 {
 td {
   width: 100px;
   height: 100px;
+  padding: 5px;
 }
+body {
+      background-color: #1f1f1f;
+      font-family: arial;
+    }
+    h2 {
+      font-family: arial;
+      margin: auto;
+      margin-top: 25px;
+      margin-bottom: 25px;
+      text-align: center;
+      font-size: 75px;
+      font-weight: bold;
+      color: white;
+    }
+    .button {
+      font-weight: bold;
+      font-size: 25px;
+      color: white;
+      text-align: center;
+      background-color: #2b2b2b;
+      border-color: #000000;
+      text-decoration: none; 
+      display: inline-block;
+      padding: 30px; 
+      border-radius: 10px;
+      transition: background-color 0.3s; /* Smooth transition */
+    }
+    .button:hover {
+      background-color: #1a1a1a; /* Darker shade on hover */
+    }
+
+    table {
+      margin: 0 auto; /* Center the table */
+     }
