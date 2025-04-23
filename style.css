@@ -12,29 +12,7 @@ h1 {
   font-weight: bold;
 }
 
-.button {
-  font-weight: bold;
-  font-size: 25px;
-  color: white;
-  text-align: center;
-  background-color: #2b2b2b;
-  border-color: #000000;
-  text-decoration: none; 
-  display: inline-block;
-  padding: 30px 30px; 
-  border-radius: 10px;
-}
-
-td {
-  width: 200px;
-  height: 1250px;
-  padding: 5px;
-}
-body {
-      background-color: #1f1f1f;
-      font-family: arial;
-    }
-    h2 {
+ h2 {
       font-family: arial;
       margin: auto;
       margin-top: 25px;
@@ -44,7 +22,12 @@ body {
       font-weight: bold;
       color: white;
     }
-    .button {
+
+td {
+  padding: 5px;
+}
+
+.button {
       font-weight: bold;
       font-size: 25px;
       color: white;
@@ -56,11 +39,14 @@ body {
       padding: 30px; 
       border-radius: 10px;
       transition: background-color 0.3s;
+      width: 150px;
+      height: 100px;
     }
-    .button:hover {
+
+.button:hover {
       background-color: #1a1a1a;
     }
 
-    table {
+ table {
       margin: 0 auto; 
      }
