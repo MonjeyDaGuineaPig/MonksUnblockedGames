@@ -36,10 +36,10 @@ td {
       border-color: #000000;
       text-decoration: none; 
       display: inline-block;
-      padding: 30px; 
+      padding: 15px; 
       border-radius: 10px;
       transition: background-color 0.3s;
-      width: 250px;
+      width: 275px;
       height: 125px;
     }
 
