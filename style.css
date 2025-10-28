@@ -10,21 +10,12 @@ body {
   z-index: 1000; 
 }
 
-/* This prevents your content from being hidden under the fixed header */
+
 #content {
-  margin-top: 100px; /* Adjust this value to match the actual height of your header */
+  margin-top: 100px; /*
 }
 
-h1 {
-  font-family: arial;
-  margin: auto;
-  margin-top: 30px;
-  text-align: center;
-  font-size: 85px;
-  font-weight: bold;
-}
-
- h2 {
+ h1 {
       font-family: arial;
       margin: auto;
       margin-top: 25px;
