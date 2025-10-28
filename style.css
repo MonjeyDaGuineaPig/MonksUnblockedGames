@@ -2,6 +2,18 @@ body {
   background-color: #1f1f1f;
   font-family: arial;
 }
+#header {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  z-index: 1000; 
+}
+
+/* This prevents your content from being hidden under the fixed header */
+#content {
+  margin-top: 100px; /* Adjust this value to match the actual height of your header */
+}
 
 h1 {
   font-family: arial;
