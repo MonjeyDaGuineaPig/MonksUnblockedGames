@@ -8,7 +8,7 @@ h1 {
   margin: auto;
   margin-top: 30px;
   text-align: center;
-  font-size: 75px;
+  font-size: 85px;
   font-weight: bold;
 }
 
@@ -29,7 +29,7 @@ td {
 
 .button {
       font-weight: bold;
-      font-size: 20px;
+      font-size: 30px;
       color: white;
       text-align: center;
       background-color: #2b2b2b;
@@ -45,6 +45,7 @@ td {
 
 .button:hover {
       background-color: #1a1a1a;
+      cursor: pointer;
     }
 
  table {
