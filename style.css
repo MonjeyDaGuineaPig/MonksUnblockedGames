@@ -2,7 +2,7 @@ body {
   background-color: #1f1f1f;
   font-family: arial;
 }
-header {
+#header {
   position: fixed; 
   top: 0; 
   left: 0; 
@@ -14,8 +14,8 @@ header {
  h1 {
       font-family: arial;
       margin: auto;
-      margin-top: 25px;
-      margin-bottom: 25px;
+      margin-top: 10px;
+      margin-bottom: 10px;
       text-align: center;
       font-size: 75px;
       font-weight: bold;
@@ -28,7 +28,7 @@ td {
 
 .button {
       font-weight: bold;
-      font-size: 30px;
+      font-size: 25px;
       color: white;
       text-align: center;
       background-color: #2b2b2b;
