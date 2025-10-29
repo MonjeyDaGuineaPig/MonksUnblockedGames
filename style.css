@@ -24,6 +24,7 @@ header {
     }
 
  h2 {
+      text-decoration: underline;
       font-family: arial;
       margin: auto;
       margin-top: 10px;
