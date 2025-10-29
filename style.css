@@ -57,6 +57,7 @@ td {
 .button:hover {
       background-color: #1a1a1a;
       cursor: pointer;
+      text-decoration: underline;
     }
 
  table {
